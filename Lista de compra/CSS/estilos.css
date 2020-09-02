@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    
+    /*background: linear-gradient(45deg, #00002f, #fff);*/
+    color: #fff;
+    background: url(https://mlbahoe2lc5t.i.optimole.com/wk4_bDY.JCn3~18507/w:2000/h:1335/q:100/https://ccgs.eu/wp-content/uploads/2018/04/La-cocina-de-mercado-scaled.jpeg);
+    background-size: cover;
+    display: flexbox;
+    background-repeat: no-repeat;
+    /*width: 100%;*/
+    height: 100vh;
+}
+
+
+h1{
+    display: inline-block;
+    margin: 15px;
+    padding: 15px;
+}
+
+.list {
+    display: inline-block;
+    background: lightslategray;
+    opacity: 0.9;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+/*.main {
+    background: lightgray;
+    display: inline-block;
+}*/
